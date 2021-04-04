@@ -1,0 +1,47 @@
+{
+    "SnakeGame": {
+        "checkpoints": [
+            {
+                "steps": 1499970,
+                "file_path": "results\\ppo\\SnakeGame\\SnakeGame-1499970.onnx",
+                "reward": 0.3333333333333333,
+                "creation_time": 1617489224.2495167
+            },
+            {
+                "steps": 1999958,
+                "file_path": "results\\ppo\\SnakeGame\\SnakeGame-1999958.onnx",
+                "reward": 2.6666666666666665,
+                "creation_time": 1617494973.8580253
+            },
+            {
+                "steps": 2499986,
+                "file_path": "results\\ppo\\SnakeGame\\SnakeGame-2499986.onnx",
+                "reward": null,
+                "creation_time": 1617500916.2094326
+            },
+            {
+                "steps": 2999990,
+                "file_path": "results\\ppo\\SnakeGame\\SnakeGame-2999990.onnx",
+                "reward": 2.3333333333333335,
+                "creation_time": 1617507217.3138254
+            },
+            {
+                "steps": 3033642,
+                "file_path": "results\\ppo\\SnakeGame\\SnakeGame-3033642.onnx",
+                "reward": 11.0,
+                "creation_time": 1617507667.8910546
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3033642,
+            "file_path": "results\\ppo\\SnakeGame.onnx",
+            "reward": 11.0,
+            "creation_time": 1617507667.8910546
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.0",
+        "torch_version": "1.8.1+cpu"
+    }
+}
