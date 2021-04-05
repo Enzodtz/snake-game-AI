@@ -32,5 +32,5 @@ The Agent reward is calculated by the apples that he took, and the steps that he
 
 ## Modifying
 
-You can add more agents if you want by adding the `SnakeHead` prefab, or copying the `SnakeHead` instance.
+You can add more agents if you want by adding the `Environment` prefab, or copying the `Environment` instance.
 You can also change the game size by modifiying the parameters of the GameManager script, and train the snake in other conditions, or test a trained snake into a bigger or lower map.
