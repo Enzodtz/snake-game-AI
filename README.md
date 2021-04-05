@@ -1,6 +1,10 @@
 # snake-game-AI
 A Machine Learning project in Unity to teach the agent how to play the snake game.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/7780770/113526251-bd140580-958f-11eb-8462-6f6d0485d746.gif">
+</p>
+
 ## Running
 
 The project is developed using the Unity MLAgents package, so there are 3 modes that you can run it. To change the mode, `Inspect` the Agent, and open the `Behaviour Parameters` group, then you will be able to select one.
